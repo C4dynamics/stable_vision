@@ -3,7 +3,7 @@ import sys
 
 print('hi')
 print('python version: ', platform.python_version()) #  3.7.13
-print('major : ', sys.version_info[0])
-print('minor : ', sys.version_info[1])
+print('major : ', sys.version_info[0]) # 3
+print('minor : ', sys.version_info[1]) # 7
 
 # pip list
