@@ -1,6 +1,6 @@
 # stable_vision
 
-![](https://github.com/C4dynamics/stable_vision/blob/main/1666713939720.png)
+![](https://github.com/C4dynamics/stable_vision/blob/main/IMG_20221025_191311.png)
 
 the functions in this project identify isosceles triangles in noisy images and return their size and position. 
 another function identifies unknown goemetric shape in a noisy image.  
