@@ -1,0 +1,13 @@
+#@title Default title text
+!git config --global user.name "AI-Dynamics"
+!git config --global user.email "zivmeri@gmail.com"
+!git config --global user.password "zit16785"
+
+# token = "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"
+token = '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'
+username = "AI-Dynamics"
+repo = "stable_vision"
+
+!git clone https://{token}@github.com/{username}/{repo}
+
+%cd {repo}
